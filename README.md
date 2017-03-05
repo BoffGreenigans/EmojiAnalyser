@@ -1,0 +1,2 @@
+# EmojiAnalyser
+Analyses emojis
